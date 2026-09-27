@@ -154,6 +154,15 @@ def teste_indice_e_ranking() -> None:
     assert set(["A", "B", "C", "D"]).issubset(rk.columns)
 
 
+def teste_2025_presente_em_todas_as_series() -> None:
+    df = _carregar()
+    if df is None:
+        return
+    for serie in ("A", "B", "C", "D"):
+        assert (df["ano"] == 2025).sum() > 0, "2025 ausente da base"
+        assert ((df["ano"] == 2025) & (df["serie"] == serie)).any(), f"2025/{serie} ausente"
+
+
 def teste_svg_para_todos_os_clubes() -> None:
     df = _carregar()
     if df is None:
