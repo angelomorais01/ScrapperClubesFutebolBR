@@ -1,0 +1,12 @@
+# Ambientes virtuais e caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Dados: mantenha data/brasileirao.csv versionado se quiser, mas o HTML bruto
+# pode ficar de fora para não inchar o repositório.
+data/raw/*.htm
+
+# Streamlit
+.streamlit/secrets.toml

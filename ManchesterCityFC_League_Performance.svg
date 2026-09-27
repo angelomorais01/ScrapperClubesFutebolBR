@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1432" height="488">
+<!-- years are 10px wide, positions are 4px high in svg -->
+<defs>
+  <pattern id="pattern1" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse" >
+      <path d="M20,0l-20,20  M10,0l-10,10  M20,10l-10,10  M1,-1l-2,2  M21,19l-2,2" fill="none" stroke="#001c58" opacity=".15" stroke-width="3.3" stroke-linecap="square"/>
+  </pattern>
+</defs>
+<path d="M0,0h1432v488H0z" fill="#fff"/>
+<path d="M45,69h1380v368H45z" style="stroke:none;fill:url(#pattern1);"/>
+<path d="M745,437h30v-4h10v4h570v-4h10v4h60  v-120H745z" fill="#787878"/>
+<path d="M365,333h10v-8h20v8h270v8h410v8h40v-8h240v-4h10v4h60  v-96H365" fill="#909090"/>
+<path d="M85,133v48h10v12h10v4h40v16h70v16h140v16h720v8h40v-8h310  v-168H85" fill="#a8a8a8"/>
+<path d="M45,117h30v8h10v8h60v8h70v8h140v8h680v-4h10v-4h30v8h40v-8h310  v-80H45z" fill="#c0c0c0"/>
+<!-- path d="M1365,69v380h30v-380z" fill="#fff"/ -->
+<path d="M315,69h40v176h-40zM555,69h70v264h-70z" fill="#5cbfeb"/>
+<path d="M60,69v368m50,0v-240m0-64v-64m50,0v72m0,72v224m50,0v-224m0-72v-72m50,0v80m0,80v208m50,0v-208m0-80v-80m50,0v88m0,88v192m50,0v-104m0-176v-88m50,0v88m0,176v104m50,0v-104m0-176v-88m50,264v104m50,0v-104m50-264v88m0,176v104m50,0v-96m0-184v-88m50,0v88m50,0v-88m50,0v88m50,0v-88m50,0v88m50,0v-88m50,0v80m50,8v-88m50,0v80m50,0v-80m50,0v80m50,0v-80m50,0v80m0,284v4m50-288v-80" fill="none" stroke="#000" stroke-width="1" stroke-opacity=".25"/>
+<path d="M110,197v-64m50,8v72m50,0v-72m50,8v80m50,0v-80m50,8v88m50,88v-176m50,0v176m50,0v-176m150,0v176m50,8v-184m50,0v280m50,0v-280m50,0v280m50,0v-280m50,0v280m50,0v-280m50-8v288m50,0v-280m50-8v288m50,0v-288m50,0v288m50,0v-288m50,0v284m50,4v-288" fill="none" stroke="#fff" stroke-width="1" stroke-opacity=".3"/>
+<path d="M45,69h1380v368H45z  M50,437.5v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7m10-7v7  M38,71h7m-7,40h7m-7,40h7m-7,40h7m-7,40h7m-7,40h7m-7,40h7m-7,40h7m-7,40h7m-7,40h7" fill="none" stroke="#b3b3b3" stroke-width="1"/>
+<text transform="rotate(-90 53,473)" font-family="sans-serif" font-size="11">
+<tspan x="53" y="473">1889</tspan>
+<tspan x="53" y="493">1891</tspan>
+<tspan x="53" y="513">1893</tspan>
+<tspan x="53" y="533">1895</tspan>
+<tspan x="53" y="553">1897</tspan>
+<tspan x="53" y="573">1899</tspan>
+<tspan x="53" y="593">1901</tspan>
+<tspan x="53" y="613">1903</tspan>
+<tspan x="53" y="633">1905</tspan>
+<tspan x="53" y="653">1907</tspan>
+<tspan x="53" y="673">1909</tspan>
+<tspan x="53" y="693">1911</tspan>
+<tspan x="53" y="713">1913</tspan>
+<tspan x="53" y="733">1915</tspan>
+<tspan x="53" y="753">1917</tspan>
+<tspan x="53" y="773">1919</tspan>
+<tspan x="53" y="793">1921</tspan>
+<tspan x="53" y="813">1923</tspan>
+<tspan x="53" y="833">1925</tspan>
+<tspan x="53" y="853">1927</tspan>
+<tspan x="53" y="873">1929</tspan>
+<tspan x="53" y="893">1931</tspan>
+<tspan x="53" y="913">1933</tspan>
+<tspan x="53" y="933">1935</tspan>
+<tspan x="53" y="953">1937</tspan>
+<tspan x="53" y="973">1939</tspan>
+<tspan x="53" y="993">1941</tspan>
+<tspan x="53" y="1013">1943</tspan>
+<tspan x="53" y="1033">1945</tspan>
+<tspan x="53" y="1053">1947</tspan>
+<tspan x="53" y="1073">1949</tspan>
+<tspan x="53" y="1093">1951</tspan>
+<tspan x="53" y="1113">1953</tspan>
+<tspan x="53" y="1133">1955</tspan>
+<tspan x="53" y="1153">1957</tspan>
+<tspan x="53" y="1173">1959</tspan>
+<tspan x="53" y="1193">1961</tspan>
+<tspan x="53" y="1213">1963</tspan>
+<tspan x="53" y="1233">1965</tspan>
+<tspan x="53" y="1253">1967</tspan>
+<tspan x="53" y="1273">1969</tspan>
+<tspan x="53" y="1293">1971</tspan>
+<tspan x="53" y="1313">1973</tspan>
+<tspan x="53" y="1333">1975</tspan>
+<tspan x="53" y="1353">1977</tspan>
+<tspan x="53" y="1373">1979</tspan>
+<tspan x="53" y="1393">1981</tspan>
+<tspan x="53" y="1413">1983</tspan>
+<tspan x="53" y="1433">1985</tspan>
+<tspan x="53" y="1453">1987</tspan>
+<tspan x="53" y="1473">1989</tspan>
+<tspan x="53" y="1493">1991</tspan>
+<tspan x="53" y="1513">1993</tspan>
+<tspan x="53" y="1533">1995</tspan>
+<tspan x="53" y="1553">1997</tspan>
+<tspan x="53" y="1573">1999</tspan>
+<tspan x="53" y="1593">2001</tspan>
+<tspan x="53" y="1613">2003</tspan>
+<tspan x="53" y="1633">2005</tspan>
+<tspan x="53" y="1653">2007</tspan>
+<tspan x="53" y="1673">2009</tspan>
+<tspan x="53" y="1693">2011</tspan>
+<tspan x="53" y="1713">2013</tspan>
+<tspan x="53" y="1733">2015</tspan>
+<tspan x="53" y="1753">2017</tspan>
+<tspan x="53" y="1773">2019</tspan>
+<tspan x="53" y="1793">2021</tspan>
+<tspan x="53" y="1813">2023</tspan>
+<tspan x="53" y="1833">2025</tspan>
+</text>
+<text x="735" y="38" font-family="sans-serif" font-size="30px" text-anchor="middle">Manchester City F.C. League Performance 1892–2026</text>
+<text transform="rotate(-90 30,259)" x="30" y="259" text-anchor="middle" font-family="sans-serif" font-weight="bold" font-size="15px">Position</text>
+<text transform="rotate(-90 343,157)" font-family="sans-serif" font-weight="bold" text-anchor="middle" font-size="20px" fill="#333">
+<tspan x="343" y="157">World War I</tspan>
+<tspan x="300" y="410">World War II</tspan>
+</text>
+<text font-family="sans-serif" font-weight="bold" font-size="20px" text-anchor="end" fill="#fff">
+<tspan x="1416" y="136">Tier 1</tspan>
+<tspan x="1416" y="232">Tier 2</tspan>
+<tspan x="1416" y="328">Tier 3</tspan>
+<tspan x="1410" y="424">Tier 4</tspan>
+</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M90,151l10,32l10-16l10-28l10,16l10-4l10-8l10,-48l10,16l10,28l10,4l10-68l10,4l10,8l10,48l10-56l10,64l10,8l10-16l10-8l10-36l10,28l10-32m50,8l10-20l10,32l10-8l10,12l10-4l10,44l10,16l10-8l10-60l10-20l10,20l10,24l10,8l10-44l10-4l10,20l10-32l10,80l10,24m80-16l10-52l10-12l10,56l10,12l10-36l10,20l10-12l10-40l10-12l10,56l10-52l10,60l10-16l10-12l10-4l10,36l10,28l10,20l10-40l10-32l10-56l10,48l10-12l10,4l10-28l10,28l10,12l10-24h10l10-24l10,8l10,44l10,8l10-20l10-8l10,40l10,24l10-4l10-40l10,24l10,36l10-32l10-32l10-36h10l10,16l10,28l10,4l10,4l10,64l10,32l10,20l10-100l10-16l10,12l10-48l10,28l10-32l10,28l10-4l10-20l10,4l10-20l10-8l10-8l10,4l10-4l10,4l10,8l10-4l10-8h10l10,4l10-4h10h10h10l10,8l10-4" id="MC"/>
+<use xlink:href="#MC" stroke-width="4" stroke="#000"/>
+<use xlink:href="#MC" stroke-width="3" stroke="#5cbfeb"/>
+</g>
+</svg>
